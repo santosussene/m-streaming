@@ -1,1 +1,7 @@
-# m-streaming
+____________________
+
+# Getting started
+
+## Installation
+
+Clone the repository.
