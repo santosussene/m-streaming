@@ -6,8 +6,6 @@
 - Adjust volume using volume bar.
 - Update user details / Logout.
 
-- Languages/Skills used: HTML5, CSS3, JavaScript, PHP, MYSQL, AJAX, jQuery, JSON
-
 ## Getting started
 
 ### Installation
