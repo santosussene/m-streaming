@@ -1,3 +1,5 @@
+## Description
+-
 ## Functionality
 - Login/ Signup.
 - Search for favourite tracks, artists, albums etc.
