@@ -11,5 +11,4 @@
 ## Getting started
 
 ### Installation
-
 - Clone the repository.
